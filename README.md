@@ -11,6 +11,6 @@ This project requires:
 <br>Arduino mini
 <br>Transceiver
 <br>Receiver
-<br>Power Supply
+<br>Power Supply (12v & 6 v)
 <br>Gloves
 <br>Accelerometer (X,Y axis)
