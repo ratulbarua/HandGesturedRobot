@@ -6,10 +6,11 @@ Gesturefinal is for the transceiver.
 You can simpy upload to your uno device and tune as you want.
 
 This project requires:
-Arduino Uno
-Arduino mini
-Transceiver
-Receiver
-Power Supply
-Gloves
-Accelerometer (X,Y axis)
+<br>Car casing with 2 wheeler and one rotatable wheeler
+<br>Arduino Uno
+<br>Arduino mini
+<br>Transceiver
+<br>Receiver
+<br>Power Supply
+<br>Gloves
+<br>Accelerometer (X,Y axis)
